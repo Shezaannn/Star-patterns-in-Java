@@ -42,7 +42,7 @@ This repository is created for:
 
 ## Progress
 🟢 Day 1: Solid Square Pattern  
-🟢 Day 2: (coming soon)
+🟢 Day 2: Rectangle
 
 ---
 
