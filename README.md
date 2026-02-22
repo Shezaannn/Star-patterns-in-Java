@@ -10,13 +10,6 @@ I am practicing **one pattern every day** to build strong fundamentals in:
 
 ---
 
-## Patterns Covered So Far
-- Solid Square Pattern
-
-More patterns will be added daily.
-
----
-
 ## Technologies Used
 - Java
 - IntelliJ IDEA
