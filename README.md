@@ -44,7 +44,8 @@ This repository is created for:
 🟢 Day 1: Solid Square Pattern  
 🟢 Day 2: Rectangle  
 🟢 Day 3: Right Angle Triangle  
-🟢 Day 4: Number Square
+🟢 Day 4: Number Square  
+🟢 Day 5: Alphabet Square
 
 ---
 
