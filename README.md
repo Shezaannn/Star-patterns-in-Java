@@ -41,7 +41,7 @@ This repository is created for:
 🟢 Day 5: Alphabet Square  
 🟢 Day 6: Same Number Square  
 🟢 Day 7: No practice (resumed next day)  
-🟢 Day 8: Inverted Right Triangle & Pyramid
+🟢 Day 8: Inverted Right & Triangle & Pyramid
 
 ---
 
