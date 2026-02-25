@@ -39,7 +39,8 @@ This repository is created for:
 🟢 Day 3: Right Angle Triangle  
 🟢 Day 4: Number Square  
 🟢 Day 5: Alphabet Square  
-🟢 Day 6: Same Number Square
+🟢 Day 6: Same Number Square  
+🟢 Day 8: Inverted Right Triangle & Pyramid
 
 ---
 
