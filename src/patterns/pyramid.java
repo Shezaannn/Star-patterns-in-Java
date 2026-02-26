@@ -2,7 +2,15 @@ package patterns;
 
 public class pyramid {
     public static void main(String[] args) {
+        /*
+          Pyramid
+             *
+            ***
+           *****
+          *******
+         *********
 
+         */
 
         int rows = 5, k = 0;
         for (int i = 1; i <= rows; ++i, k = 0) {
