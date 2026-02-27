@@ -42,7 +42,8 @@ This repository is created for:
 🟢 Day 6: Same Number Square  
 🟢 Day 7: No practice (resumed next day)  
 🟢 Day 8: Inverted Right Triangle & Pyramid  
-🟢 Day 9: Alpha-numeric right angle triangle
+🟢 Day 9: Alpha-numeric right angle triangle  
+🟢 Day 10: Number pyramid
 
 ---
 
