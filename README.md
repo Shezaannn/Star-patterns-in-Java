@@ -44,6 +44,7 @@ This repository is created for:
 🟢 Day 8: Inverted Right Triangle & Pyramid  
 🟢 Day 9: Alpha-numeric right angle triangle  
 🟢 Day 10: Number pyramid
+🟢 Day 11: Hollow Rectangle
 
 ---
 
